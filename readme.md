@@ -125,7 +125,7 @@
 ---
 
 ## 📞 Contact
-- Email: example@email.com  
-- GitHub: (링크 추가)
+- Email: aabb5175@gmail.com  
+- GitHub: https://github.com/YTS-12
 
 ---
